@@ -1,0 +1,15 @@
+stm32f4xx_gpio.c:132:6:GPIO_Init_LED	16	static
+stm32f4xx_gpio.c:154:6:GPIO_DeInit	16	static
+stm32f4xx_gpio.c:229:6:GPIO_Init	32	static
+stm32f4xx_gpio.c:281:6:GPIO_StructInit	16	static
+stm32f4xx_gpio.c:304:6:GPIO_PinLockConfig	24	static
+stm32f4xx_gpio.c:350:9:GPIO_ReadInputDataBit	24	static
+stm32f4xx_gpio.c:376:10:GPIO_ReadInputData	16	static
+stm32f4xx_gpio.c:393:9:GPIO_ReadOutputDataBit	24	static
+stm32f4xx_gpio.c:419:10:GPIO_ReadOutputData	16	static
+stm32f4xx_gpio.c:439:6:GPIO_SetBits	16	static
+stm32f4xx_gpio.c:460:6:GPIO_ResetBits	16	static
+stm32f4xx_gpio.c:482:6:GPIO_WriteBit	16	static
+stm32f4xx_gpio.c:507:6:GPIO_Write	16	static
+stm32f4xx_gpio.c:523:6:GPIO_ToggleBits	16	static
+stm32f4xx_gpio.c:606:6:GPIO_PinAFConfig	24	static
